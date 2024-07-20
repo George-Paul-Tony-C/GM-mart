@@ -8,9 +8,9 @@ import {
   // Fashion
   Tshirt,shirt,
   // electronics and Appliances
-  Fan,Sbuds,SonyHeadphone,washingmech,LgAc,Lgfridge,windowAC,
+  SonyHeadphone,washingmech,Lgfridge,
   AppCombo,Designlap,macbookair,tufgaming,Stv,Swashing,Sfridge,Svacuum,
-  Samsungs23,googlepixel7,Oneplus11,iphone14pro,samsunglogo,xiaomilogo,applelogo,onepluslogo,realmelogo,
+  Samsungs23,iphone14pro,
 } from './images.js'
 
 

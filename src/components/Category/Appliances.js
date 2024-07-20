@@ -5,17 +5,9 @@ import { FaShoppingCart } from 'react-icons/fa';
 import './Appliances.css';
 
 import {
-  
-  // Vegitables 
-  tomato,potato,onion,carrot,cauliflower,capsicum,cucumber,ginger,ladiesfinger,garlic,corianderleave,corn,
-  // fruits
-  apple,banana,avacado,cherry,grape,guava,mango,orange,pineapple,pomegranate,watermelon,jackfruit,
-  // Fashion
-  Tshirt,shirt,
-  // electronics and Appliances
-  Fan,Sbuds,SonyHeadphone,washingmech,LgAc,Lgfridge,windowAC,
-  AppCombo,Designlap,macbookair,tufgaming,Stv,Swashing,Sfridge,Svacuum,
-  Samsungs23,googlepixel7,Oneplus11,iphone14pro,samsunglogo,xiaomilogo,applelogo,onepluslogo,realmelogo,
+ washingmech,Lgfridge,
+  AppCombo,Stv,Swashing,Sfridge,Svacuum,
+  samsunglogo,xiaomilogo,
   panasoniclogo,whirlpoollogo ,LGlogo,
 } from '../images.js';
 

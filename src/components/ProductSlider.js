@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import {
-  AppCombo,Designlap,macbookair,tufgaming,Stv,Swashing,Sfridge,Svacuum,LgAc,
+  Designlap,macbookair,tufgaming,Stv,Swashing,Sfridge,Svacuum,LgAc,
 } from './images.js'
 import './ProductSlider.css';
 

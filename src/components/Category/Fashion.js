@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Form, FormControl, Button, Container, Row, Col } from 'react-bootstrap';
+import {Container, Row, Col } from 'react-bootstrap';
 import './Fashion.css';
 import bannerImage from '../images/FashionImg/fashionbanner.png'; // Replace with actual path
 import indianwear from '../images/FashionImg/indianwear.png';
@@ -27,11 +27,11 @@ const fashionCategories = [
 ];
 
 function Fashion() {
-  const [searchQuery, setSearchQuery] = useState('');
+  const [searchQuery] = useState('');
 
-  const handleSearchChange = (e) => {
-    setSearchQuery(e.target.value);
-  };
+  // // const handleSearchChange = (e) => {
+  //   setSearchQuery(e.target.value);
+  // };
 
   const filteredItems = fashionCategories[0].items.filter(item =>
     item.name.toLowerCase().includes(searchQuery.toLowerCase())
