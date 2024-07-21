@@ -21,7 +21,7 @@ const categoryData = {
     { name: 'Realme', logo: realmelogo },
   ],
   products: [
-    { id: 'Samsungs23', name: 'Samsung S23', mrp: '10000', price: 80000, image: Samsungs23 },
+    { id: 'Samsungs23', name: 'Samsung S23', mrp: '10000', price: 80000, image: Samsungs23, },
     { id: 'google pixel 7', name: 'google pixel 7', mrp: '80000', price: 60000, image: googlepixel7 },
     { id: 'Oneplus 11', name: 'Oneplus 11', mrp: '50000', price: 40000, image: Oneplus11 },
     { id: 'Iphone 14 pro', name: 'Iphone 14 pro', mrp: '150000', price: 125000, image: iphone14pro },

@@ -112,6 +112,12 @@ import Detergent from './images/GroceryImg/detergent.png';
 import garbagebag from './images/GroceryImg/garbagebag.png';
 import Freshener from './images/GroceryImg/freshner.png';
 
+// Spec Images 
+
+import fanspec1 from './images/AppliancesImg/fanspec1.png';
+
+import fanspec2 from './images/AppliancesImg/fanspec2.png';
+
 export {
   bannerImage,veg,fruit,cuts,herbs,atta,rice,dals,oil,dryfruit,salt,healthdrink,tea,flavormilk,juice,
   energydrink,softdrink,chaiSnack,morningstarter,pasta,sweet,Cleaner,Detergent,garbagebag,Freshener,
@@ -127,4 +133,7 @@ export {
   Tshirt,shirt,
   // electronics and Appliances
   Fan,Sbuds,SonyHeadphone,washingmech,LgAc,Lgfridge,windowAC,AppCombo,Designlap,macbookair,tufgaming,Stv,Swashing,Sfridge,Svacuum,
+
+  // Spec Images
+  fanspec1,fanspec2,
 };
