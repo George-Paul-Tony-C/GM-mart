@@ -34,11 +34,6 @@ const categoryData = {
     { id: 'Appliance 1', name: 'Appliance 1', mrp: '100', price: 80, image: productimg },
     { id: 'Appliance 2', name: 'Appliance 2', mrp: '200', price: 160, image: productimg },
     { id: 'Appliance 3', name: 'Appliance 3', mrp: '300', price: 240, image: productimg },
-    { id: 'Appliance 4', name: 'Appliance 4', mrp: '400', price: 320, image: productimg },
-    { id: 'Appliance 1', name: 'Appliance 1', mrp: '100', price: 80, image: productimg },
-    { id: 'Appliance 2', name: 'Appliance 2', mrp: '200', price: 160, image: productimg },
-    { id: 'Appliance 3', name: 'Appliance 3', mrp: '300', price: 240, image: productimg },
-    { id: 'Appliance 4', name: 'Appliance 4', mrp: '400', price: 320, image: productimg },
     // Add more products as needed
   ]
 };
